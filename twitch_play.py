@@ -4,7 +4,7 @@ import passwords
 
 server = 'irc.chat.twitch.tv'
 port = 6667
-nickname = 'minestbot'
+nickname = '' # bot name here
 token = passwords.token
 channel = '#mizkif'
 
